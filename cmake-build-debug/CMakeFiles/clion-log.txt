@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/charlescheng/Desktop/School/Northwestern/2021-2022/Winter/CS 211/fruit_ninja"
+-- Using vendored Catch2 library (/Users/charlescheng/Desktop/School/Northwestern/2021-2022/Winter/CS 211/fruit_ninja/.cs211/lib/catch)
+-- Using vendored Ge211 library (/Users/charlescheng/Desktop/School/Northwestern/2021-2022/Winter/CS 211/fruit_ninja/.cs211/lib/ge211)
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/charlescheng/Desktop/School/Northwestern/2021-2022/Winter/CS 211/fruit_ninja/cmake-build-debug
